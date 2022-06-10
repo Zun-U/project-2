@@ -1,5 +1,10 @@
 @charset "utf-8";
 
+li {
+  color: yellow;
+}
+
+
 p {
   color: red;
 }
@@ -31,4 +36,5 @@ p {
 }
 
 /* 終了 */
+
 
